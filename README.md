@@ -11,7 +11,7 @@ KISS Team. **KISS** = Keep It Simple & Stupid
 
   - 核心理念 (core principles)
   - 编码风格 (coding style)
-  - 检验单 (check sheet)
+  - 知识点 (cheat sheet)
   - 学习路线图 (study roadmap)
   - 推荐读物 (references)
 
@@ -22,7 +22,7 @@ KISS Team. **KISS** = Keep It Simple & Stupid
   
 ## 开始 (Getting Started)
 
-此项目文档撰写采用`Markdown`和`HTML`, 参考[Write on GitHub](https://help.github.com/categories/writing-on-github/).
+此项目文档撰写采用`Markdown`和`HTML`, 参考[Writing on GitHub](https://help.github.com/categories/writing-on-github/) 和 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
 **推荐**: [GitHub for Windows](https://windows.github.com/) 或者 [GitHub for Mac](https://mac.github.com/).
 
@@ -37,5 +37,5 @@ KISS Team. **KISS** = Keep It Simple & Stupid
 ### 分支命名规范 (Branch Naming Guide)
 
 ```
-Check Sheet: checksheet-***  (e.g. checksheet-markdown, checksheet-html)
+Cheat Sheet: cheatsheet-***  (e.g. cheatsheet-markdown, cheatsheet-html)
 ```
