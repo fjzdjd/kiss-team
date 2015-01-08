@@ -13,7 +13,6 @@ KISS Team. **KISS** = Keep It Simple & Stupid
   - 编码风格 (coding style)
   - 知识点 (cheat sheet)
   - 学习路线图 (study roadmap)
-  - 推荐读物 (references)
 
 此项目**不**包含：
 

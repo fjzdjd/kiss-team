@@ -1,5 +1,5 @@
-# ÖªÊ¶µã (Cheat Sheet)
+# çŸ¥è¯†ç‚¹ (Cheat Sheet)
 
-°üº¬:
+åŒ…å«:
 
  - Markdown

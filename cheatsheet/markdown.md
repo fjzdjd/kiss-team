@@ -30,7 +30,7 @@
 - 删除线 (Strikethrough)
 - 混合HTML (Mix HTML)
  
-## 参考引用 (References)
+## 推荐读物 (Recommended Reading)
 
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
