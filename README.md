@@ -11,7 +11,7 @@ KISS Team. **KISS** = Keep It Simple & Stupid
 
   - 核心理念 (core principles)
   - 编码风格 (coding style)
-  - 知识关键点 (key point of knowledge)
+  - 检验单 (check sheet)
   - 学习路线图 (study roadmap)
   - 推荐读物 (references)
 
@@ -32,4 +32,10 @@ KISS Team. **KISS** = Keep It Simple & Stupid
 
 ```
 查看README -> 查看Issue -> 查看Wiki -> 创建分支 -> 提交 -> 审核,合并分支
+```
+
+### 分支命名规范 (Branch Naming Guide)
+
+```
+Check Sheet: checksheet-***  (e.g. checksheet-markdown, checksheet-html)
 ```
