@@ -19,3 +19,10 @@ KISS Team. **KISS** = Keep It Simple & Stupid
   - 具体项目
   - 学习教程
   
+## 开始 (Getting Started)
+
+此项目文档撰写采用`Markdown`和`HTML`, 参考[Write on GitHub](https://help.github.com/categories/writing-on-github/).
+
+**推荐**: *GitHub for Windows* 或者 *GitHub for Mac*.
+
+*注: Web版GitHub仅推荐查看，不推荐提交。*
