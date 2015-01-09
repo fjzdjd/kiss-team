@@ -25,6 +25,8 @@ KISS Team. **KISS** = Keep It Simple & Stupid
 
 **推荐**: [GitHub for Windows](https://windows.github.com/) 或者 [GitHub for Mac](https://mac.github.com/).
 
+也可以采用[Git](http://www.git-scm.com/), 参考[Pro Git](http://www.git-scm.com/book/) 和 [GitHub Flow Guide](https://guides.github.com/introduction/flow/index.html).
+
 *注: Web版GitHub仅推荐查看，不推荐提交。*
 
 ### 工作流 (Work Flow)
