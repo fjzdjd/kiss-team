@@ -3,7 +3,12 @@
 ## 基本 (Basic)
 
 ```bash
-git config [--global|--system] <git-config>
+git config --global user.name 'Your Name'
+git config --global user.email your-github-email-address
+git config --global core.ui auto
+git config --global push.default simple   # Git 1.7.11+
+git config --global push.default current  # Git 1.7.10-
+git config --list
 
 # 创建
 git clone <repo-url> [<repo-name>]
